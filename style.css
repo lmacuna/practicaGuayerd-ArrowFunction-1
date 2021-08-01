@@ -1,0 +1,14 @@
+p{
+    color:#ccc;
+    background:darkblue;
+    font-size:20px;
+    font-weight:bold;
+    height:100px;width:35%;
+    text-align:center;
+    margin: auto;
+    display: inline-block;
+}
+body{
+    background: grey;
+   
+}
